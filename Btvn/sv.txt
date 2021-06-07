@@ -1,0 +1,30 @@
+Dang My Son;nam;1.646847269271925;13/06/1452;rot;kem
+Le Lan;nu;1.6499311775054992;03/03/1596;rot;kem
+Nguyen Van Nam;nam;4.144164812140099;17/03/1033;rot;yeu
+Hoang Thi Lan;nam;2.4191408150726215;15/02/1898;rot;kem
+Dang My Hung;nam;2.9734072618198484;10/11/1639;rot;kem
+Dang Cuc;nam;3.7062896544929202;02/12/1093;rot;yeu
+Dang Thi Lan;nu;5.581673775413539;06/11/1101;Dau;trung binh
+Tran My Hung;nu;9.77516058589082;20/01/1458;Dau;gioi
+Nguyen Mai;nam;9.661383056617069;14/11/1326;Dau;gioi
+Tran Thi Dao;nam;4.22963880722874;23/04/1196;rot;yeu
+Tran Van Hung;nam;7.568817921634558;03/03/1747;Dau;kha
+Le Van Dao;nu;6.165647723882182;07/11/1230;Dau;trung binh
+Le Van Cuc;nam;7.923557225900213;26/08/1350;Dau;kha
+Dang Van Mai;nam;9.155911838116902;15/03/1513;Dau;gioi
+Nguyen Thanh Lan;nu;2.145960384482856;27/02/1103;rot;kem
+Tran My Cuc;nu;7.0884156940687815;14/03/1336;Dau;kha
+Hoang My Duc;nam;3.9925881977533697;31/01/1709;rot;yeu
+Hoang Thi Hung;nu;8.184153352107675;08/12/2009;Dau;gioi
+Nguyen Duc;nu;7.196969546449817;28/10/1921;Dau;kha
+Hoang Thi Mai;nu;8.097478543778525;23/02/1654;Dau;gioi
+Tran Thanh Nam;nam;8.449505063564462;14/05/1539;Dau;gioi
+Le Thanh Mai;nu;9.108049507555343;08/04/1045;Dau;gioi
+Dang Thi Mai;nam;8.477304177171384;27/08/1558;Dau;gioi
+Tran My Cuc;nam;0.7505587624796772;11/03/1125;rot;kem
+Le Thanh Nam;nu;8.038910059342939;12/09/1461;Dau;gioi
+Nguyen Van Lan;nam;9.454301469107795;08/03/1705;Dau;gioi
+Hoang Thi Mai;nam;8.692256130178261;08/06/1221;Dau;gioi
+Tran Thanh Lan;nu;8.204886510060398;05/06/1911;Dau;gioi
+Tran Dao;nam;2.558418391340056;25/05/1064;rot;kem
+Le My Cuc;nu;8.134543075842352;25/06/1994;Dau;gioi
